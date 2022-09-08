@@ -235,3 +235,6 @@ input:checked ~ .bubble::after {
 	text-decoration: line-through;
 	color: var(--grey);
 }
+input{
+	width: 100%;
+}
